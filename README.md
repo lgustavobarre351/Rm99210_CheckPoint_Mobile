@@ -50,6 +50,8 @@ Instalação mínima
 ```powershell
 npm install
 npx expo install react-native-svg
+npm install @react-native-async-storage/async-storage
+npm install lucide-react-native
 ```
 
 Comandos úteis
